@@ -1,5 +1,6 @@
 # Train_System
 Desktop application to help passengers of the train trip
+------------------------------------------------------------
 functionality of the system :
  - Reserve a ticket.
  - Cancel a reservation.
